@@ -1,0 +1,13 @@
+{
+  "url" : "http://moh.kenya.int/ig/smart-immunizations-measles/ImplementationGuide/kenya.fhir.smart-immunizations-measles",
+  "name" : "SMART",
+  "package-id" : "kenya.fhir.smart-immunizations-measles",
+  "ig-ver" : "0.1.0",
+  "date" : "Wed, 25 Oct, 2023 10:39:40 +0000",
+  "errs" : 100,
+  "warnings" : 64,
+  "hints" : 20,
+  "version" : "4.0.1",
+  "tool" : "5.0.0 (3)",
+  "maxMemory" : 3666364736
+}
